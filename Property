@@ -1,0 +1,11 @@
+<?php
+   //cara penulisan property
+   
+   class buah{         //class buah
+     var $warna;       //class warna   
+     var $bentuk;     //class bentuk
+     var $rasa;       //class rasa
+     
+   }
+
+ ?>
