@@ -1,0 +1,20 @@
+<?php
+   //cara penulisan method
+  class buah{
+    //property OOP
+    
+    var $warna;
+    var $bentuk;
+    var $rasa;
+    
+    //method OOP
+    function maju (){
+      //mangga,jeruk,apel
+    }
+    function berhenti (){
+      //mangga,jeruk,apel
+    }
+  }
+   
+
+ ?>
